@@ -14,7 +14,7 @@ console.log(null >= 0);
 
 console.log(undefined == 0);
 console.log(undefined > 0);
-console.log(undefined < 0);
+console.log(undefined < 0);        //prefer to not use above 6 lines
 
 // === 
 
